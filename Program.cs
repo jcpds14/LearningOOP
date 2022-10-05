@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using LearningOOP.Models;
+
+Person person = new Person();
+
+person.Name = "Jean";
+person.Age = 25;
+person.ToIntroduce();

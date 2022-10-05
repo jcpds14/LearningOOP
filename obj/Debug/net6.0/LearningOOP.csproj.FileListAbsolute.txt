@@ -1,0 +1,15 @@
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\bin\Debug\net6.0\LearningOOP.exe
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\bin\Debug\net6.0\LearningOOP.deps.json
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\bin\Debug\net6.0\LearningOOP.runtimeconfig.json
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\bin\Debug\net6.0\LearningOOP.dll
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\bin\Debug\net6.0\LearningOOP.pdb
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\LearningOOP.csproj.AssemblyReference.cache
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\LearningOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\LearningOOP.AssemblyInfoInputs.cache
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\LearningOOP.AssemblyInfo.cs
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\LearningOOP.csproj.CoreCompileInputs.cache
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\LearningOOP.dll
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\refint\LearningOOP.dll
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\LearningOOP.pdb
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\LearningOOP.genruntimeconfig.cache
+C:\Users\JJ\jean\jean\workspace\dio\dotnet\LearningOOP\obj\Debug\net6.0\ref\LearningOOP.dll
