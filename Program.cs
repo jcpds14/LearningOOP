@@ -1,7 +1,10 @@
 ﻿using LearningOOP.Models;
 
-Student student = new Student();
+AccountBank ac = new AccountBank(123, 1000);
 
-student.Name = "Jean Carlos";
-student.Age = 25;
-student.Grade = 5.5;
+ac.ShowBalance();
+ac.WithDrawn(500);
+ac.ShowBalance();
+
+
+
