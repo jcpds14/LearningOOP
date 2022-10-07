@@ -1,10 +1,18 @@
 ﻿using LearningOOP.Models;
 
-AccountBank ac = new AccountBank(123, 1000);
+Student st = new Student();
 
-ac.ShowBalance();
-ac.WithDrawn(500);
-ac.ShowBalance();
+st.Name = "Jean Carlos";
+st.Age = 25;
+st.Grade = 10;
+st.Email = "teste@email.com";
+st.ToIntroduce();
 
+Teacher t1 = new Teacher();
+t1.Name = "Leonardo Buta";
+t1.Age = 30;
+t1.Wage = 1000;
+t1.Email = "testet1@email.com";
+t1.ToIntroduce();
 
 

@@ -12,3 +12,4 @@ _Herança_
 It is the concept where children inherit the characteristics of a particular class
 
 _Polimorfismo_
+Com o polimorfismo, podemos sobrescrever métodos das classes filhas para que se comportem de maneira diferente e ter sua própria implementação.

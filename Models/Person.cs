@@ -9,8 +9,9 @@ namespace LearningOOP.Models
     {
         public string Name { get; set; }
         public int Age { get; set; }
+        public string Email { get; set; }
 
-        public void ToIntroduce()
+        public virtual void ToIntroduce()// Virtual permite o Polimorfismo
         {
             Console.WriteLine($"Hello, my name is {Name}, and I have {Age} years old!");
         }
