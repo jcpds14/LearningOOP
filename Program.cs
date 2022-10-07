@@ -1,7 +1,7 @@
 ﻿using LearningOOP.Models;
 
-Person person = new Person();
+Student student = new Student();
 
-person.Name = "Jean";
-person.Age = 25;
-person.ToIntroduce();
+student.Name = "Jean Carlos";
+student.Age = 25;
+student.Grade = 5.5;
