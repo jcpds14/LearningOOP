@@ -9,7 +9,7 @@ namespace LearningOOP.Models
     {
         public decimal Wage { get; set; }
 
-        public override void ToIntroduce()
+        public override void ToIntroduce()// Override serve para realizar o Polimorfismo
         {
             Console.WriteLine($"Olá meu nome é {Name}, sou professor e tenho {Age} anos com o salário de {Wage}");
         }

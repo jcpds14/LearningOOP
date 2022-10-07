@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace LearningOOP.Models
 {
-    public class AccountBank
+    public class CheckingAccount
     {
-        public AccountBank(int accountNumber, decimal initialBalance)
+        public CheckingAccount(int accountNumber, decimal initialBalance)
         {
             balance = initialBalance;
             accountNumber = AccountNumber;

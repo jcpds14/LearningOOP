@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JJ\\jean\\jean\\workspace\\dio\\dotnet\\LearningOOP\\LearningOOP.csproj": {}
+    "C:\\Users\\JJ\\Jean\\jEAN\\workspace\\DIO\\dotnet\\LearningOOP\\LearningOOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JJ\\jean\\jean\\workspace\\dio\\dotnet\\LearningOOP\\LearningOOP.csproj": {
+    "C:\\Users\\JJ\\Jean\\jEAN\\workspace\\DIO\\dotnet\\LearningOOP\\LearningOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JJ\\jean\\jean\\workspace\\dio\\dotnet\\LearningOOP\\LearningOOP.csproj",
+        "projectUniqueName": "C:\\Users\\JJ\\Jean\\jEAN\\workspace\\DIO\\dotnet\\LearningOOP\\LearningOOP.csproj",
         "projectName": "LearningOOP",
-        "projectPath": "C:\\Users\\JJ\\jean\\jean\\workspace\\dio\\dotnet\\LearningOOP\\LearningOOP.csproj",
+        "projectPath": "C:\\Users\\JJ\\Jean\\jEAN\\workspace\\DIO\\dotnet\\LearningOOP\\LearningOOP.csproj",
         "packagesPath": "C:\\Users\\JJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JJ\\jean\\jean\\workspace\\dio\\dotnet\\LearningOOP\\obj\\",
+        "outputPath": "C:\\Users\\JJ\\Jean\\jEAN\\workspace\\DIO\\dotnet\\LearningOOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
