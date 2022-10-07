@@ -11,5 +11,5 @@ It is the concept that makes a certain private property, so that it cannot be ac
 _Herança_
 It is the concept where children inherit the characteristics of a particular class
 
-_Polimorfismo_
-Com o polimorfismo, podemos sobrescrever métodos das classes filhas para que se comportem de maneira diferente e ter sua própria implementação.
+_Polymorphism_
+With polymorphism, we can stand out for the daughters' methods to behave differently and have their own implementation.
