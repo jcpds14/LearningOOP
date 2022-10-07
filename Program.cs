@@ -1,9 +1,38 @@
 ﻿using LearningOOP.Models;
 
-CheckingAccountTest c = new CheckingAccountTest();
 
-c.Credit(500);
-c.ShowBalance();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// CheckingAccountTest c = new CheckingAccountTest();
+
+// c.Credit(500);
+// c.ShowBalance();
 
 
 

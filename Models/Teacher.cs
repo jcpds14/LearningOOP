@@ -7,6 +7,10 @@ namespace LearningOOP.Models
 {
     public class Teacher : Person // Conceito de Herança. Inheritance Concept
     {
+        public Teacher()//Passa o construtor sem valor para ser instanciado
+        { }
+        public Teacher(string name) : base(name)
+        { }
         public decimal Wage { get; set; }
 
         public override void ToIntroduce()// Override serve para realizar o Polimorfismo

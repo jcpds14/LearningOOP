@@ -7,6 +7,12 @@ namespace LearningOOP.Models
 {
     public class Person
     {
+        public Person()//Passa o construtor sem valor para ser instanciado
+        { }
+        public Person(string name)
+        {
+            Name = name;
+        }
         public string Name { get; set; }
         public int Age { get; set; }
         public string Email { get; set; }
