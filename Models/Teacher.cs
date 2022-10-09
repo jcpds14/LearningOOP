@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace LearningOOP.Models
 {
-    public class Teacher : Person // Conceito de Herança. Inheritance Concept
+    public class Teacher : Person // Conceito de Herança. Inheritance Concept. Se colocar sealed antes da class, nenhuma outra class poderá herdar desta class
     {
         public Teacher()//Passa o construtor sem valor para ser instanciado
         { }
